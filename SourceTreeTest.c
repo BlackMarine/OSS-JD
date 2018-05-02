@@ -10,6 +10,7 @@ int main()
 
   for (int i = 0; i < 10; i++){
     printf("Test 브랜치\n");
+    printf("마스터 브랜치 추가 2");
   }
   return 0;
 }
